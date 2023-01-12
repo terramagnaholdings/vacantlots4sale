@@ -1,0 +1,52 @@
+.row {
+    margin: 10px;
+}
+
+.col {
+    padding: 10px;
+}
+
+.img_description {
+    position: relative;
+    background: rgba(29, 106, 154, 0.72);
+    color: #fff;
+}
+
+.status {
+    position: relative;
+    background: rgba(255, 0, 0, 0.72);
+    color: #fff;
+}
+
+
+.carouselListing {
+    text-align: center;
+}
+
+.center {
+    margin: auto;
+    width: 75%;
+    padding: 10px;
+}
+
+.navbar {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.anchor {
+    scroll-margin-top: 200px;
+}
+
+.propertyDescription {
+    font-size: 16pt;
+}
+
+.contact {
+    padding: 50px;
+    font-weight: bold;
+}
+
+.map {
+    padding-top: 50px;
+}
