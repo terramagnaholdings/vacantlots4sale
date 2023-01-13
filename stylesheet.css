@@ -50,3 +50,7 @@
 .map {
     padding-top: 50px;
 }
+
+a:link { 
+    text-decoration: none; 
+}
