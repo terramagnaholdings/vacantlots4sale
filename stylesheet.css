@@ -54,3 +54,7 @@
 a:link { 
     text-decoration: none; 
 }
+
+.header {
+    padding: 20px;
+}
